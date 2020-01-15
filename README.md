@@ -1,6 +1,6 @@
-# Electromagnetic Field 2018 Site Plan
+# Electromagnetic Field 2020 Site Plan
 
-This is the master site plan for EMF 2018. It's in DXF (CAD) format, using the OSGB1938
+This is the master site plan for EMF 2020. It's in DXF (CAD) format, using the OSGB1938
 (EPSG27700) coordinate reference system. That means that the drawing units are meters.
 
 This map is rendered for the web using [buildmap](https://github.com/emfcamp/buildmap).
